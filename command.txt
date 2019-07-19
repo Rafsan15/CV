@@ -1,0 +1,3 @@
+git status
+git commit -am 'Ok'
+git push origin master
